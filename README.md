@@ -26,4 +26,4 @@ Contributions are welcome! If you have any ideas or improvements, feel free to s
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/Marioalf2002/starts/blob/main/LICENSE) file for more information.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Marioalf2002/starts/edit/main/LICENCE.md) file for more information.
