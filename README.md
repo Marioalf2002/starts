@@ -23,3 +23,7 @@ Once the Star Generator is running, you can customize the appearance of the star
 ## Contributing
 
 Contributions are welcome! If you have any ideas or improvements, feel free to submit a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Marioalf2002/starts/blob/main/LICENSE) file for more information.
